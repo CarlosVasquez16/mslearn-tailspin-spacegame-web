@@ -1,3 +1,4 @@
-pool: Space-game-codespace-agent
+pool: 
+  name: 'Space-game-codespace-agent'
 steps:
 - bash: echo hello world
